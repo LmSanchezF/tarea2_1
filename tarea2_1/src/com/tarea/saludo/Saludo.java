@@ -11,7 +11,7 @@ public class Saludo {
         Scanner sc = new Scanner(System.in);
 
         
-        String nombre = "Tu nombre completo";
+        String nombre = "Luis Manuel Sanchez Fernande";
 
         System.out.print("Introduce tu fecha de nacimiento (dd/MM/yyyy): ");
         String fechaStr = sc.nextLine();
